@@ -1,0 +1,17 @@
+# Created: 2026-04-27 15:05
+
+# Model weights (large binary)
+*.pth
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Data cache
+data/
