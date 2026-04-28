@@ -45,3 +45,5 @@ pip3 install torch torchvision flask pillow numpy
 Tested with: `torch 2.8.0`, `torchvision 0.23.0`, Python 3 system install (`/usr/bin/python3`) on macOS Darwin 25.3.0.
 
 > **Note:** tkinter is not usable on this machine (macOS 26 Tahoe beta incompatibility with the bundled Tcl/Tk). All UI must stay web-based (Flask + HTML5 Canvas).
+
+화이팅빠가야로
